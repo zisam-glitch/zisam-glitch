@@ -1,7 +1,10 @@
 <div align="center">
 
-# Hi there, I'm zisam shaikh 👋
-### Systems Engineer & Open Source Software Maintainer
+<a href="https://github.com/zisam-glitch">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+zisam+shaikh+%F0%9F%91%8B;Systems+%26+Concurrency+Engineer;Zero-Dependency+Runtimes+in+Rust%2C+Go%2C+TypeScript;Maintainer+of+the+kvdock+Engine+Suite" alt="Typing SVG" />
+</a>
+
+<br />
 
 [![Developer Program Member](https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/developers/overview/github-developer-program)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
@@ -10,7 +13,7 @@
 <p align="center">
   <b>Architecting low-latency runtime primitives, zero-dependency cores, and concurrent storage engines.</b>
   <br />
-  Active contributor to foundational libraries across <b>Rust</b>, <b>Go</b>, <b>TypeScript</b>, <b>Swift</b>, and <b>Kotlin</b>.
+  Active contributor to foundational open source across <b>Rust</b>, <b>Go</b>, <b>TypeScript</b>, <b>Swift</b>, and <b>Kotlin</b>.
 </p>
 
 ---
@@ -50,7 +53,7 @@
 
 ## 🔬 Upstream Open Source Contributions
 
-I believe in minimal-diff engineering: targeting root causes with zero fluff and reproducible regression tests.
+Targeting root causes with minimal diffs, zero AI signatures, and reproducible test suites:
 
 ```text
 Ecosystem Contributions Summary:
@@ -68,9 +71,17 @@ Ecosystem Contributions Summary:
 
 ---
 
-## 📊 GitHub Analytics & Activity
+## 📊 Activity & Contribution Stream
 
 <div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zisam-glitch/zisam-glitch/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zisam-glitch/zisam-glitch/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/zisam-glitch/zisam-glitch/output/github-contribution-grid-snake.svg" width="97%" />
+</picture>
+
+<br /><br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=zisam-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisam-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
@@ -90,10 +101,10 @@ Ecosystem Contributions Summary:
 | Achievement | Status | Description |
 | :--- | :---: | :--- |
 | **Developer Program Member** | 🎖️ Active | Registered member of the official GitHub Developer Program. |
-| **Pull Shark** | 🦈 Unlocked | Merged pull requests across open-source repositories. |
-| **Quickdraw** | ⚡ Unlocked | Closed an issue / PR within 5 minutes of opening. |
+| **Quickdraw** | ⚡ Unlocked | Closed an issue or pull request within 5 minutes of opening. |
+| **YOLO** | 🚀 Unlocked | Merged pull request directly into default branch without review. |
 | **Pair Extraordinaire** | 👥 Unlocked | Co-authored commits on merged pull requests. |
-| **YOLO** | 🚀 Unlocked | Merged pull request directly without code review. |
+| **Pull Shark** | 🦈 Active | Merged pull requests across open-source repositories. |
 
 </div>
 
