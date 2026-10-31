@@ -57,6 +57,8 @@ Targeting root causes with minimal diffs, zero AI signatures, and reproducible t
 
 ```text
 Ecosystem Contributions Summary:
+├── [Kotlin] square/okhttp (lysine-dev/okhttp)
+│   └── PR #9837: fix(dns): translate invalid hostname IllegalArgumentException to UnknownHostException in lookup (Fixes #9796)
 ├── [Rust] BurntSushi/memchr
 │   └── PR #244: fix(neon): correct shift in all_zeros_except_least_significant (Fixes #219)
 ├── [TypeScript] DefinitelyTyped/DefinitelyTyped
@@ -65,6 +67,7 @@ Ecosystem Contributions Summary:
     └── feat/partial-on-undefined: Add PartialOnUndefined utility type for precise object definitions
 ```
 
+- **[square/okhttp #9837](https://github.com/square/okhttp/pull/9837)**: Corrected hostname parsing error handling in `AndroidDns.lookup()` and `DnsOverHttps.lookup()` to gracefully raise `UnknownHostException` with cause preserved, preventing unhandled runtime exceptions.
 - **[BurntSushi/memchr #244](https://github.com/BurntSushi/memchr/pull/244)**: Fixed 64-bit Neon movemask bitshift in `all_zeros_except_least_significant` to properly zero lower lanes for $n \ge 1$.
 - **[DefinitelyTyped/DefinitelyTyped #75860](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75860)**: Added native WHATWG Invoker Commands API attributes (`command`, `commandfor`) to React `ButtonHTMLAttributes`.
 - **[kvdock #31](https://github.com/zisam-glitch/kvdock/pull/31)**: Reviewed and merged community contribution verifying strict invalid TTL boundary handling in core storage.
