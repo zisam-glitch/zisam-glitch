@@ -7,6 +7,7 @@
 <br />
 
 [![Developer Program Member](https://img.shields.io/badge/GitHub-Developer_Program_Member-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/developers/overview/github-developer-program)
+[![Follow on GitHub](https://img.shields.io/github/followers/zisam-glitch?label=Follow%20%40zisam-glitch&style=for-the-badge&logo=github&color=38BDF8)](https://github.com/zisam-glitch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zisamshaikh7@gmail.com)
 
