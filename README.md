@@ -1,12 +1,19 @@
 # Zisam Shaikh
 
+[![Follow @zisam-glitch](https://img.shields.io/github/followers/zisam-glitch?label=Follow%20%40zisam-glitch&style=for-the-badge&logo=github)](https://github.com/zisam-glitch)
+[![Star kvdock](https://img.shields.io/github/stars/zisam-glitch/kvdock?label=Star%20kvdock&style=for-the-badge&logo=github)](https://github.com/zisam-glitch/kvdock)
+[![Dev.to Blog](https://img.shields.io/badge/Dev.to-%40zisamglitch-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/zisamglitch)
+[![Interactive Playground](https://img.shields.io/badge/Playground-Stampede_Simulator-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zisam-glitch.github.io/kvdock/playground/index.html)
+
 Systems & Infrastructure Engineer · Author of [kvdock](https://github.com/zisam-glitch/kvdock)  
-[Email](mailto:zisamshaikh7@gmail.com) · [LinkedIn](https://linkedin.com) · [Documentation](https://zisam-glitch.github.io/kvdock/)
+[Email](mailto:zisamshaikh7@gmail.com) · [Dev.to (@zisamglitch)](https://dev.to/zisamglitch) · [Documentation & Live Simulator](https://zisam-glitch.github.io/kvdock/)
 
 ---
 
 ### Focus
 Architecting zero-dependency runtimes, thread-safe memory models, and deterministic storage primitives. Primary maintainer of the `kvdock` cross-language ecosystem across Rust, Go, TypeScript, Swift, and Kotlin.
+
+> 👤 **Follow [@zisam-glitch on GitHub](https://github.com/zisam-glitch)** for weekly deep dives into zero-dependency systems programming, single-flight concurrency, and distributed caching architecture.
 
 ---
 
@@ -23,6 +30,17 @@ A universal, zero-dependency key-value and caching engine engineered natively ac
 | [**kvdock-go**](https://github.com/zisam-glitch/kvdock-go) | `Go 1.27` | Concurrent generic `Get[T]`, container/list LRU, atomic operational telemetry | [![CI](https://github.com/zisam-glitch/kvdock-go/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/zisam-glitch/kvdock-go/actions) |
 | [**kvdock-swift**](https://github.com/zisam-glitch/kvdock-swift) | `Swift 6.3` | Actor-isolated concurrency, monotonic `ContinuousClock` TTL enforcement | [![CI](https://github.com/zisam-glitch/kvdock-swift/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/zisam-glitch/kvdock-swift/actions) |
 | [**kvdock-kt**](https://github.com/zisam-glitch/kvdock-kt) | `Kotlin / JVM` | Thread-safe generic caching, access-order `LinkedHashMap` $O(1)$ LRU | [![CI](https://github.com/zisam-glitch/kvdock-kt/actions/workflows/ci.yml/badge.svg?style=flat-square)](https://github.com/zisam-glitch/kvdock-kt/actions) |
+
+---
+
+### 📝 Latest Engineering Articles & Deep-Dives
+<!-- BLOG-POST-LIST:START -->
+- [Next.js 15 Custom Cache Handler: Self-Host ISR with L1 RAM + L2 Redis & Stop Cache Stampedes](https://dev.to/zisamglitch/nextjs-15-custom-cache-handler-self-host-isr-with-l1-ram-l2-redis-stop-cache-stampedes-3533)
+- [Building a Zero-Dependency Key-Value Engine in 5 Languages (Rust, Go, TypeScript, Swift, Kotlin)](https://dev.to/zisamglitch/building-a-zero-dependency-key-value-engine-in-5-languages-rust-go-typescript-swift-kotlin-3gp4)
+- [Why Every Backend Needs Multi-Tier Caching (L1 RAM + L2 Redis)](https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj)
+- [Zero-Dependency Architecture: Why We Built KVDock with 0 External Dependencies](https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj)
+- [How We Eliminated Cache Stampedes in Node.js & Bun with Single-Flight Coalescing](https://dev.to/zisamglitch/how-we-eliminated-cache-stampedes-in-nodejs-bun-with-single-flight-coalescing-2h0i)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
