@@ -11,6 +11,9 @@ Architecting zero-dependency runtimes, thread-safe memory models, and determinis
 ---
 
 ### ⚡ Flagship Project: `kvdock`
+
+> ⭐ **Primary Flagship Repository:** [**zisam-glitch/kvdock**](https://github.com/zisam-glitch/kvdock) [![GitHub Repo stars](https://img.shields.io/github/stars/zisam-glitch/kvdock?style=social)](https://github.com/zisam-glitch/kvdock) — Universal zero-dependency caching engine with single-flight stampede coalescing & multi-tier L1/L2 storage. **[Star `kvdock` on GitHub ★](https://github.com/zisam-glitch/kvdock)**
+
 A universal, zero-dependency key-value and caching engine engineered natively across five languages with unified semantics, strict thread safety, and deterministic eviction.
 
 | Runtime | Language / Target | Architecture | Status |
