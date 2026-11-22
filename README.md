@@ -35,12 +35,12 @@ A universal, zero-dependency key-value and caching engine engineered natively ac
 
 ### 📝 Latest Engineering Articles & Deep-Dives
 <!-- BLOG-POST-LIST:START -->
+- [Sub-Millisecond Route & Eden Treaty Caching in Bun, Elysia.js, and Hono](https://dev.to/zisamglitch/sub-millisecond-route-eden-treaty-caching-in-bun-elysiajs-and-hono-59hp)
 - [Benchmarking TypeScript KV & Cache Engines in 2026: KVDock vs. Unstorage vs. Keyv](https://dev.to/zisamglitch/benchmarking-typescript-kv-cache-engines-in-2026-kvdock-vs-unstorage-vs-keyv-4ab1)
 - [Cut OpenAI & Vercel AI SDK Token Costs by 70% with Deterministic Prompt Caching](https://dev.to/zisamglitch/cut-openai-vercel-ai-sdk-token-costs-by-70-with-deterministic-prompt-caching-1hph)
 - [Next.js 15 Custom Cache Handler: Self-Host ISR with L1 RAM + L2 Redis & Stop Cache Stampedes](https://dev.to/zisamglitch/nextjs-15-custom-cache-handler-self-host-isr-with-l1-ram-l2-redis-stop-cache-stampedes-3533)
 - [Zero-Dependency Architecture: Why We Built KVDock with 0 External Dependencies](https://dev.to/zisamglitch/zero-dependency-architecture-why-we-built-kvdock-with-0-external-dependencies-50fj)
 - [Building a Zero-Dependency Key-Value Engine in 5 Languages (Rust, Go, TypeScript, Swift, Kotlin)](https://dev.to/zisamglitch/building-a-zero-dependency-key-value-engine-in-5-languages-rust-go-typescript-swift-kotlin-3gp4)
-- [Why Every Backend Needs Multi-Tier Caching (L1 RAM + L2 Redis)](https://dev.to/zisamglitch/why-every-backend-needs-multi-tier-caching-l1-ram-l2-redis-16cj)
 <!-- BLOG-POST-LIST:END -->
 
 ---
